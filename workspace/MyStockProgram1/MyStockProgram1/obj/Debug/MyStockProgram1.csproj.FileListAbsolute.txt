@@ -1,0 +1,15 @@
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\bin\Debug\MyStockProgram1.exe.config
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\bin\Debug\MyStockProgram1.exe
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\bin\Debug\MyStockProgram1.pdb
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\MyStockProgram1.csprojAssemblyReference.cache
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\MyStockProgram1.Properties.Resources.resources
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\MyStockProgram1.csproj.GenerateResource.cache
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\MyStockProgram1.csproj.CoreCompileInputs.cache
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\MyStockProgram1.exe
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\MyStockProgram1.pdb
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\bin\Debug\Interop.KHOpenAPILib.dll
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\bin\Debug\AxInterop.KHOpenAPILib.dll
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\Interop.KHOpenAPILib.dll
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\AxInterop.KHOpenAPILib.dll
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\MyStockProgram1.csproj.ResolveComReference.cache
+D:\kosmo91\Visual Studio\workspace\MyStockProgram1\MyStockProgram1\obj\Debug\MyStockProgram1.Form1.resources
